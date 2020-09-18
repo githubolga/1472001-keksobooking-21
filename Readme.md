@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Мякшина](https://up.htmlacademy.ru/javascript/21/user/1472001).
-* Наставник: `Неизвестно`.
+* Наставник: `Роман Макаров`.
 
 ---
 
